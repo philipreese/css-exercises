@@ -17,12 +17,9 @@
   font-size: 20px;
 }
 
-.confirm {
-  background: green;
-  color: white;
-  font-size: 20px;
-  font-weight: bold;
-} 
+.small-para {
+  font-size: 14px;
+}
 
 div.text {
   color: green;
